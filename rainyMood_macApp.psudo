@@ -1,0 +1,12 @@
++ make simple mac app with just a button and text field.
++ Make button change textfield to "on" and "off"
++ make button play audio
++ change background to rain jpeg
++ add volume slider
+
+- Make sure sound loops
+- Change background to rain gif. 
+- Make rain gif play/pause with button 
+- add way to play application from menu bar rather than window
+
+- Make a command-line version with ascii rain!
